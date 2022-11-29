@@ -39,10 +39,12 @@
 <a href="https://github.com/ydataai/ydata-synthetic">
     <img src="https://img.shields.io/badge/ydata%20synthetic-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<!-- YData Synthetic-->
+<a href="https://github.com/ydataai/ydata-synthetic">
     <img src="https://img.shields.io/badge/ydata%20quality-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <!-- href="https://img.shields.io/github/stars/ydataai/ydata-synthetic?color=black&style=for-the-badge&label=★" -->
-<a href="https://www.linkedin.com/company/75424487/admin/"><img height="31" src="img/linkedin_wbg.png"/></a>
+<a href="https://www.linkedin.com/company/75424487/admin/"><img height="28" src="img/ld.png"/></a>
 <!-- LinkedIn-->
 <!--<a href="https://www.linkedin.com/company/75424487/admin/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" />
@@ -50,7 +52,7 @@
 <!--<a href="https://twitter.com/YData_ai">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>-->
-<a href="https://twitter.com/YData_ai"><img height="28" src="img/twitter_wbg.png"/></a>
+<a href="https://twitter.com/YData_ai"><img height="28" src="img/tw.png"/></a>
 <a href="https://datacentricai.community"><img height="28" src="img/dcai.png"/></a>
 <a href="https://ydata.ai"><img height="30" src="img/ydata_nbg.png"/></a>
 <!-- 
