@@ -22,6 +22,7 @@
 </a>
 
 <br>
+
 ![banner_dcai](img/banner_dcai.png)
 <!-- Discord-->
 <a href="https://discord.gg/mw7xjJ7b7s">
