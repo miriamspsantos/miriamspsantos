@@ -41,7 +41,7 @@
 <a href="https://github.com/ydataai/ydata-synthetic">
     <img src="https://img.shields.io/badge/ydata%20synthetic-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<span><img src="https://img.shields.io/github/stars/ydataai/ydata-synthetic?color=black&style=for-the-badge&label=★" /></span>
+<img src="https://img.shields.io/github/stars/ydataai/ydata-synthetic?color=black&style=for-the-badge&label=★" />
 <a href="https://www.linkedin.com/company/75424487/admin/"><img height="31" src="img/linkedin_squared.png"/></a>
 <a href="https://twitter.com/YData_ai"><img height="28" src="img/twitter_squared.png"/></a>
 <a href="https://datacentricai.community"><img height="28" src="img/dcai.png"/></a>
