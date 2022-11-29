@@ -45,7 +45,7 @@
 <a href="https://www.linkedin.com/company/75424487/admin/"><img height="31" src="img/linkedin_squared.png"/></a>
 <a href="https://twitter.com/YData_ai"><img height="28" src="img/twitter_squared.png"/></a>
 <a href="https://datacentricai.community"><img height="28" src="img/dcai.png"/></a>
-<a href="https://ydata.ai"><img height="30" src="img/ydata.png"/></a>
+<a href="https://ydata.ai"><img height="30" src="img/ydata_nbg.png"/></a>
 <!-- 
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]() -->
