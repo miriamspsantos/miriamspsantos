@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/ydata%20synthetic-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <!-- YData Synthetic-->
-<a href="https://github.com/ydataai/ydata-synthetic">
+<a href="https://github.com/ydataai/ydata-quality">
     <img src="https://img.shields.io/badge/ydata%20quality-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <!-- href="https://img.shields.io/github/stars/ydataai/ydata-synthetic?color=black&style=for-the-badge&label=★" -->
