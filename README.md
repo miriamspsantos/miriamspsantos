@@ -1,7 +1,11 @@
 ### Hi, I'm Miriam 👋
 <!--[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/username)-->
+<!-- Medium-->
+<a href="https://medium.com/@miriam.santos">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 <!-- LinkedIn-->
-<a href="www.linkedin.com/in/miriamseoanesantos/">
+<a href="https://www.linkedin.com/in/miriamseoanesantos/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" />
 </a>
 <!-- Twitter-->
@@ -34,7 +38,7 @@
 <a href="https://github.com/ydataai/pandas-profiling">
     <img src="https://img.shields.io/badge/ydata%20profiling-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<!--<img src="https://img.shields.io/github/stars/ydataai/pandas-profiling?color=black&style=for-the-badge&label=★" /> -->
+<!--<img src="https://img.shields.io/github/stars/ydataai/pandas-profiling?color=black&style=for-the-badge&label=★" />-->
 <!-- YData Synthetic-->
 <a href="https://github.com/ydataai/ydata-synthetic">
     <img src="https://img.shields.io/badge/ydata%20synthetic-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -63,7 +67,7 @@ I'm YData's **Data Science Advocate** and the **Community Lead** of the Data-Cen
 
 We're the creators of **pandas-profiling**, **ydata-synthetic**, and **ydata-quality**, three open-source projects focused on producing **high-quality data** for machine learning applications. Contributions are welcome, just [check our GitHub](https://github.com/ydataai) to get started with those PRs!
 
-You can follow our updates on the [community blog](https://datacentricai.community) or [monthly newsletter](https://datacentricai.community/#newsletter). Feel free to get in touch! You can reach me at miriam.santos@ydata.ai or join me on our [Discord Server](https://discord.gg/mw7xjJ7b7s).
+You can follow our updates on the [community blog](https://datacentricai.community) or [monthly newsletter](https://datacentricai.community/#newsletter). Feel free to get in touch! You can reach me at community@ydata.ai or join me on our [Discord Server](https://discord.gg/mw7xjJ7b7s).
 
 
 ![footer:dcai](img/footer-dcai.png)
